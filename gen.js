@@ -1,4 +1,4 @@
-import {nodefs, writeChanged, entity2unicode,readTextContent, patchBuf} from 'ptk/nodebundle.cjs'
+import {nodefs, writeChanged, entity2unicode,readTextContent} from 'ptk/nodebundle.cjs'
 await nodefs;
 const indir='html/';
 const outdir='off/';
